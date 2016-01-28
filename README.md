@@ -23,3 +23,8 @@ command in the root directory.
 The target directory of the project root will contain the
 commit-status-publisher.zip file, which is ready [to be installed]
 (https://confluence.jetbrains.com/display/TCDL/Installing+Additional+Plugins).
+
+## BitBucket Cloud 2FA Instructions.
+With 2FA and BitBucket Cloud, the master branch (currently for TeamCity v10) works for 9.1.4.
+Create an API key, and use the username and the API Key as the login. 
+
